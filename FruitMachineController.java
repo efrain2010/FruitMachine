@@ -1,8 +1,3 @@
-/* 
- * Efraín Manuel Villanueva Castilla
- * Matric: 2488514V 
- */
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
