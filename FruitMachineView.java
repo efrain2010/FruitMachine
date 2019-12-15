@@ -1,8 +1,3 @@
-/* 
- * Efraín Manuel Villanueva Castilla
- * Matric: 2488514V 
- */
-
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
