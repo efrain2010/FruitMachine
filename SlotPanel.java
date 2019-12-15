@@ -1,8 +1,3 @@
-/* 
- * Efraín Manuel Villanueva Castilla
- * Matric: 2488514V 
- */
-
 import java.awt.FlowLayout;
 import java.awt.Color;
 
